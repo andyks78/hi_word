@@ -1,1 +1,1 @@
-echo 'hi word';
+echo 'hello word';
